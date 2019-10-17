@@ -2,10 +2,10 @@
 appA-name:0.1.0
 
 #Second Test
-appB-name:0.1.15
+appB-name:0.1.16
 
 #Third Test
 appC-name:0.1.2
 
 #Shared Files
-sharedA-name:0.1.4
+sharedA-name:0.1.5
