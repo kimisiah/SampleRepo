@@ -2,7 +2,7 @@
 appA-name:0.1.3
 
 #Second Test
-appB-name:0.1.22
+appB-name:0.1.23
 
 #Third Test
 appC-name:0.1.2
