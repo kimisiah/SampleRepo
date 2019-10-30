@@ -9,3 +9,6 @@ appC-name:0.1.2
 
 #Shared Files
 sharedA-name:0.1.6
+
+#From MergeTest
+mergeTest:0.1.0
