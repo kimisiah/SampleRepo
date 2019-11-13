@@ -11,4 +11,4 @@ appC-name:0.1.2
 sharedA-name:0.1.6
 
 #From MergeTest
-mergeTest:0.1.1
+mergeTest:0.1.2
